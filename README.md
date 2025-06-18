@@ -2,6 +2,7 @@
 This repository contains cleaned code produced by the BIRDS team related to team publications. Code for each publication will be available by selecting the relevant branch, linked in the information below.
 
 # Links to recent publications
+* [Global, regional, and national prevalence of kidney failure with replacement therapy and associated aetiologies, 1990–2023: a systematic analysis for the Global Burden of Disease Study 2023](https://github.com/ihmeuw/birds/tree/KFRT_lancet_2025)
 * [Global, regional, and national cascades of diabetes care, 2000-2023: diagnosis, treatment, and glycaemic management](https://github.com/ihmeuw/birds/tree/diabetescascade_lancetdiabetesendocrinology_2025)
 * [Disability weights - Injury Prevention - 2025](https://github.com/ihmeuw/birds/tree/disabilityweights_injuryprevention_2025)
 * [Global, regional, and national burden of disorders affecting the nervous system, 1990–2021: a systematic analysis of the Global Burden of Disease Study 2021](https://github.com/ihmeuw/birds/tree/neurology_lancet_2024)
